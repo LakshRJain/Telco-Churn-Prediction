@@ -23,8 +23,8 @@ An end-to-end data science project that identifies **why telecom customers leave
 
 ## Dashboard
 
-![Dashboard page 1: Churn overview](images/dashboard_page1.png)
-![Dashboard page 2: Risk bands and churn drivers](images/dashboard_page2.png)
+![Dashboard page 1: Churn overview](Images/Dashboard-Overview.png)
+![Dashboard page 2: Risk bands and churn drivers](Images/Dashboard-RiskAndDrivers.png)
 
 The Power BI dashboard has two pages:
 
