@@ -216,6 +216,3 @@ telco-churn-prediction/
 3. Open `notebooks/telco_churn_analysis.ipynb` in Jupyter or Google Colab, update the data path in the first cell, and run all cells.
 4. Open the `.pbix` in Power BI Desktop (Windows), or view the PDF export.
 
----
-
-*Author: [Your Name] · [LinkedIn] · [Email]*
